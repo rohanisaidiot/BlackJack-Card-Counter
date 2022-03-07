@@ -1,8 +1,3 @@
-# Project: Blackjack Card Counter
-# Program Name: BlackjackCardCounter.py
-# Author: Allen Li
-# Date Created: 8/16/2019
-# Version: 0.1
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 import re
